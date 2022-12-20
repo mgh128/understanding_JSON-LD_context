@@ -1,0 +1,7 @@
+{
+  "@context" : {
+    "gs1": "https://gs1.org/voc/",
+    "id" : "@id",
+    "type" : "@type"
+	}
+}
