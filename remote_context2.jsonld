@@ -1,0 +1,10 @@
+{
+  "@context" : {
+    "gs1": "https://gs1.org/voc/",
+    "id" : "@id",
+    "type" : "@type",
+    "gtin" : "gs1:gtin",
+    "productName" : "gs1:productName",
+    "productDescription" : "gs1:productDescription"
+	}
+}
